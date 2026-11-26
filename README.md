@@ -18,7 +18,7 @@ I build full-stack products and AI workflows â€” from the data model to the
 
 I am a full-stack developer and the founder of **FKodeLabs**. My work sits where product engineering and intelligent automation meet: multi-tenant platforms, social systems, payments and network labs, and AI retrieval pipelines. I like taking a complicated workflow, finding the system underneath it, and building the whole path.
 
-Eleven live systems are public now, each with a real README, tests, and a demo. The front door to all of it is **PortfolioOS** â€” a working macOS desktop and iPhone experience built in the browser.
+Eleven live systems, each with a real README, tests, and a demo. The front door to all of it is **PortfolioOS** â€” a working macOS desktop and iPhone experience built in the browser.
 
 ## Start here
 
